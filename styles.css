@@ -1,0 +1,35 @@
+header,p{
+    text-align: center;
+}
+body{
+    background-color: rgb(237, 231, 231);
+    
+}
+figure{
+    background-color: white;
+    text-align: center;
+}
+ul{
+    width: 500px;
+    padding: 50px;
+    margin: auto;
+}
+li{
+    padding: 5px;
+}
+h2{
+    text-align: center;
+    padding-top: 20px;
+}
+blockquote{
+    width: 500px;
+    padding: 5px;
+    margin: auto;
+}
+span{
+    font-weight: bold;
+}
+img{
+    width: 700px;
+    height: auto;
+}
